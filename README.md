@@ -1,2 +1,2 @@
 # boston_housing
-Predict house price in Boston
+Build ML model to predict house price in Boston using XGBoost.
