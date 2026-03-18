@@ -1,4 +1,5 @@
-## Housing Prices Prediction for Kaggle Competition
+# Housing Prices Prediction for Kaggle Competition
+## Project Overview
 Build ML model to predict the sales price for each house. For each ID in the test set, you must predict the value of the SalePrice variable.
 ## Practice Skills
 - Basic regression technique like Linear Regression
